@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RTU Sch.</string>
+    <string name="nepara">Nepāra</string>
+    <string name="para">Pāra</string>
+    <string name="pr">Pr</string>
+    <string name="ot">Ot</string>
+    <string name="tr">Tr</string>
+    <string name="ct">Ct</string>
+    <string name="pt">Pt</string>
+    <string name="_08_15_09_50">08:15 - 09:50</string>
+    <string name="_10_15_12_05">10:15 - 12:05</string>
+    <string name="_12_30_14_05">12:30 - 14:05</string>
+    <string name="_14_30_16_05">14:30 - 16:05</string>
+    <string name="_16_30_18_05">16:30 - 18:05</string>
+    <string name="_18_15_19_50">18:15 - 19:50</string>
+    <string name="_20_15_21_50">20:15 - 21:50</string>
+    <string name="ad">AD</string>
+    <string name="it2">IT2</string>
+    <string name="it1">IT1</string>
+    <string name="fi">FI</string>
+    <string name="action_settings">LOL</string>
+</resources>
