@@ -1,0 +1,4 @@
+#Thu Sep 19 17:09:42 EEST 2019
+base.0=E\:\\GitHub\\RTU-Schedule\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
