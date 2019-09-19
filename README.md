@@ -1,3 +1,3 @@
 <h1>RTU Schedule</h1>
 
-<img src="https://i.imgur.com/CZ9vTjW.png" />
+<img src="https://i.imgur.com/unBV5o0.png" />
