@@ -92,6 +92,11 @@ public class MainActivity extends AppCompatActivity {
 		programId = 0;
 		weekId = getWeekParity(offset);
 		dayId = getDayOfWeek(offset);
+
+		if(dayId > 4) {
+			dayId = 0;
+			weekId = weekId == 0 ? 1 : 0;
+		}
 	}
 
 	private int getWeekParity(OffsetDateTime offset) {
