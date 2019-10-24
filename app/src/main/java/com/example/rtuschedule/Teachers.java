@@ -3,11 +3,13 @@ package com.example.rtuschedule;
 public class Teachers {
     public static String Bolocko = "Asociētais profesors K. Boločko";
     public static String Kivlenieks = "Asistents p. i. R. Kivlenieks";
+	public static String Klavins = "Asistents Ē.Kļaviņš";
     public static String Krutikova = "Lektors O. Krutikova";
     public static String Sisojevs = "Asociētais profesors A. Sisojevs";
     public static String Suponenkovs = "A. Supoņenkovs";
     public static String Zagurskis = "V. Zagurskis";
     public static String Ziema = "M. Ziema";
+
 
 	public static String Iltins = "I. Iltiņš";
 	public static String Matvejevs = "Profesors p. i. A. Matvejevs";

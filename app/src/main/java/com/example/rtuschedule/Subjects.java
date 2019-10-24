@@ -7,6 +7,8 @@ public class Subjects {
     public static String Multivide = "Multivides pielietojumi";
     public static String AtteluApstrade = "Attēlu apstrāde un analīze";
     public static String Datordizains = "Datordizains";
+	public static String Drosiba = "Datortehnoloģiju drošības pamati";
+
 
 	public static String SkaitliskasMetodes = "Skaitliskās metodes";
 	public static String AktuarasTehnologijasProgrammuPaketes = "Aktuārās tehn. progr. paketes";

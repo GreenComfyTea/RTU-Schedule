@@ -24,8 +24,9 @@ public class Programs {
 
 		class2 = new Class(Classrooms.D2_341, Subjects.Datorgrafika, Types.Lecture, Teachers.Sisojevs);
 		class3 = new Class(Classrooms.D2_340, Subjects.Datorgrafika, Types.LaboratoryWork, Teachers.Sisojevs);
+		class4 = new Class(Classrooms.D2_353, Subjects.Drosiba, Types.Lecture, Teachers.Klavins);
 
-		day1 = new Day(Class.empty, class2, class3, Class.empty, Class.empty, Class.empty, Class.empty);
+		day1 = new Day(Class.empty, class2, class3, class4, Class.empty, Class.empty, Class.empty);
 
 		class1 = new Class(Classrooms.D2_341, Subjects.PLC, Types.Lecture, Teachers.Suponenkovs);
 		class2 = new Class(Classrooms.D2_348, Subjects.Arhitektura, Types.Lecture, Teachers.Zagurskis);
