@@ -1,6 +1,8 @@
 package com.example.rtuschedule;
 
 public class Teachers {
+	public static String Unknown = "???";
+
 //  public static String Bolocko = "Asociētais profesors K. Boločko";
 	public static String Girsova = "Docents (praktiskais) L. Girsova";
 //  public static String Kivlenieks = "Asistents p. i. R. Kivlenieks";
@@ -23,7 +25,7 @@ public class Teachers {
 //	public static String Smitins = "Lektors p. i. M. Šmitiņš";
 //	public static String Nikifovora = "O. Ņikiforova";
 //	public static String Merkurjevs = "Profesors J. Merkurjevs";
-//	public static String Romanovs = "A. Romānovs";
+//
 //	public static String Starcenko = "Lektors A. Starčenko";
 //	public static String Tise = "Lektors L. Tīse";
 //	public static String RomanovsAsProf = "Asociētais profesors A. Romānovs";
@@ -34,6 +36,15 @@ public class Teachers {
 //	public static String Eiduks = "J. Eiduks";
 //	public static String Bikovska = "J. Bikovska";
 //	public static String Lektauers = "Asociētais profesors A. Lektauers";
+
+	public static String Petuhova = "Docents J.Petuhova";
+	public static String Pirta = "Pētnieks R.Pirta";
+
+	public static String Aleksejeva = "Profesors L. Aleksejeva";
+	public static String Bolsakovs = "Lektors V. Boļšakovs";
+	public static String Grabis = "Institūta direktors J. Grabis";
+	public static String Kampars = "Asociētais profesors J. Kampars";
+	public static String Romanovs = "Asociētais profesors A. Romānovs";
 
     private Teachers() { }
 }
