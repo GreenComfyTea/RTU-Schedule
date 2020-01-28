@@ -104,9 +104,7 @@ public class MainActivity extends AppCompatActivity {
 		int weekOfYear = dayOfYear / 7;
 		int weekParity = weekOfYear % 2;
 
-		weekParity = weekParity == 1
-				? weekParity - 1
-				: weekParity + 1;
+		// weekParity = weekParity == 1 ? 1 : 0;
 
 		return weekParity;
 	}

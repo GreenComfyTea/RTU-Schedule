@@ -122,28 +122,16 @@ public class Programs {
 
 	private static Program getIT2() {
 		Class class3, class4, class5, class6;
-		Day day1, day4;
+		Day day1;
 
 		class3 = new Class(Classrooms.S1_413, Subjects.Logistika, Types.Lecture, Teachers.Petuhova);
-		class4 = new Class(Classrooms.D2_435, Subjects.Logistika, Types.LaboratoryWork, Teachers.Unknown);
-		class5 = new Class(Classrooms.D2_340, Subjects.Logistika, Types.LaboratoryWork, Teachers.Unknown);
+		class4 = new Class(Classrooms.S1_413, Subjects.Logistika, Types.LaboratoryWork, Teachers.Petuhova);
+		class5 = new Class(Classrooms.S1_413, Subjects.Logistika, Types.LaboratoryWork, Teachers.Petuhova);
 
 		day1 = new Day(Class.empty, Class.empty, class3, class4, class5, Class.empty, Class.empty);
 
-		class5 = new Class(Classrooms.S1_407, Subjects.Restrukturizācija, Types.Lecture_PracticeWork, Teachers.Pirta + ", Nedēļas: 1.-12.");
-		class6 = new Class(Classrooms.S1_407, Subjects.Restrukturizācija, Types.Lecture_PracticeWork, Teachers.Pirta + ", Nedēļas: 1.-12.");
+		Week oddWeek = new Week(day1, Day.empty, Day.empty, Day.empty, Day.empty);
 
-		day4 = new Day(Class.empty, Class.empty, Class.empty, Class.empty, class5, class6, Class.empty);
-
-		Week oddWeek = new Week(day1, Day.empty, Day.empty, day4, Day.empty);
-
-		class5 = new Class(Classrooms.S1_407, Subjects.Restrukturizācija, Types.Lecture_PracticeWork, Teachers.Pirta + ", Nedēļas: 1.-12.");
-		class6 = new Class(Classrooms.S1_407, Subjects.Restrukturizācija, Types.Lecture_PracticeWork, Teachers.Pirta + ", Nedēļas: 1.-12.");
-
-		day4 = new Day(Class.empty, Class.empty, Class.empty, Class.empty, class5, class6, Class.empty);
-
-		Week evenWeek = new Week(Day.empty, Day.empty, Day.empty, day4, Day.empty);
-
-		return new Program(oddWeek, evenWeek);
+		return new Program(oddWeek, Week.empty);
 	}
 }
