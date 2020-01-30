@@ -7,6 +7,7 @@ public class Subjects {
     public static String Psihologija = "Psiholoģija";
     public static String ScenuAnalize = "Scēnu analīze un tēlu atpazīšana";
     public static String SocialaPsihologija = "Sociālā psiholoģija";
+	public static String InteraktivaGrafika = "Interaktīvas datorgrafikas prakt. liet.";
 
     public static String Logistika = "Loģistikas ķēžu analīze un vadīšana";
 	public static String Restrukturizācija = "Restrukturizācija un izmaiņu vadība";

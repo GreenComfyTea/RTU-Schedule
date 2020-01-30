@@ -4,7 +4,8 @@ public class Teachers {
 	public static String Unknown = "???";
 
 //  public static String Bolocko = "Asociētais profesors K. Boločko";
-	public static String Girsova = "Docents (praktiskais) L. Girsova";
+//	public static String Girsova = "Docents (praktiskais) L. Girsova";
+	public static String Gudzuka = "Docents (praktiskais) S. Gudzuka";
 //  public static String Kivlenieks = "Asistents p. i. R. Kivlenieks";
 //	public static String Klavins = "Asistents Ē.Kļaviņš";
 	public static String Kovalovs = "Docents M. Kovaļovs";

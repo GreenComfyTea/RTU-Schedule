@@ -12,6 +12,7 @@ public class Classrooms {
 
 //	public static String S1_512 = "S1-512";
 
+	public static String D2_329 = "D2_329";
     public static String D2_340 = "D2-340";
     public static String D2_341 = "D2-341";
     public static String D2_348 = "D2-348";
