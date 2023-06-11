@@ -1,7 +1,5 @@
-<h1>RTU Schedule</h1>
-
 <p align="center">
-	<h2 align="center"><b>Image Processing</b></h2>
+	<h2 align="center"><b>RTU Schedule</b></h2>
 </p>
 
 <p align="center">
